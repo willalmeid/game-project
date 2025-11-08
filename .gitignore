@@ -1,0 +1,16 @@
+# Arquivos compilados do Java
+/bin/
+*.class
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do VSCode
+.vscode/
+launch.json
+
+# Outros arquivos comuns
+*.log
+*.jar
